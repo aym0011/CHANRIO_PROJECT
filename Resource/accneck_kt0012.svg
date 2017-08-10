@@ -1,0 +1,35 @@
+<svg id="accneck" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.23 123.84">
+  <title>accneck_kt0012</title>
+  <g id="accneck_kt0012">
+    <g id="back">
+      <path id="b" d="M217.33,253c-35.53,0-62.49,17.65-61.33,48,1,26.33,24.67,62.33,64,59.33,6.74-.51,15.91-1.85,21.48-4.18C267.67,345.22,278,316.94,279.67,301,282.79,270.79,252.86,253,217.33,253Zm6.75,48.4c-.23.4-.47.8-.68,1.21a1.91,1.91,0,0,1-1.38,1.08q-.47.45-1,.86a2.34,2.34,0,0,1-1.95.55,2.16,2.16,0,0,1-1.19,0,8.35,8.35,0,0,1-2.86-1.41h-.28a2.21,2.21,0,0,1-3.68-.1,47.89,47.89,0,0,1-5.1-11.25,3.16,3.16,0,0,1-1.62-1.78,4.69,4.69,0,0,1,.39-2.63A7.66,7.66,0,0,1,212,282.8h0a10,10,0,0,1,6.64-.57,2,2,0,0,1,1.34-.43,11.21,11.21,0,0,1,8,3.23,2.42,2.42,0,0,1,3.21,2c.43,4.09-1.76,7.55-4.48,10.39A30.41,30.41,0,0,1,224.08,301.4Z" transform="translate(-153.31 -250.35)" fill="#fff"/>
+      <path id="outline" d="M215.44,363.16a57.78,57.78,0,0,1-39.09-15.09c-13.34-11.9-22.37-30.34-23-47-.48-12.53,3.66-23.71,12-32.34,11.43-11.87,29.9-18.41,52-18.41,23.46,0,43.53,7.33,55.05,20.11a38.86,38.86,0,0,1,9.92,30.82h0c-1.63,15.8-11.86,45.66-39.8,57.33-7.28,3-18.91,4.12-22.3,4.38Q217.8,363.16,215.44,363.16Zm1.9-107.51c-20.65,0-37.77,6-48.19,16.79-7.39,7.67-10.92,17.25-10.49,28.46.58,15.26,8.91,32.23,21.23,43.21a52.75,52.75,0,0,0,39.92,13.58c6.58-.5,15.46-1.81,20.66-4,25.65-10.71,35.05-38.34,36.57-53h0A33.26,33.26,0,0,0,268.45,274C258.08,262.51,239,255.65,217.33,255.65ZM279.67,301h0Z" transform="translate(-153.31 -250.35)" fill="#231815"/>
+    </g>
+    <path id="o" d="M218,307c-7.12-.44-11-9.67-13.67-16s3.29-10.38,14-10c9.33.33,13.33,4,12.33,8.33S223.33,307.33,218,307Z" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <g id="kitty">
+      <g id="head">
+        <path id="outline-2" data-name="outline" d="M244.77,359.63a25.89,25.89,0,0,0,5.16-10.39h0c2.5-.36,9.44-6.37,8.75-10.87s-11.91-7.11-11.91-7.11h0A46.12,46.12,0,0,0,229.35,315h0s-3.22-11-7.89-11.41-10.06,6.94-10.26,9.46h0a25.93,25.93,0,0,0-10,5.83c-16,14.4,3.56,32.68,7.14,36S231.48,376.52,244.77,359.63Z" transform="translate(-153.31 -250.35)" fill="#fff" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <g id="face">
+          <path id="n" d="M214,344.35c.78-.73,2.17-.47,3.41.62s1.64,2.64.85,3.53-2.14.6-3.43-.53h0a3.54,3.54,0,0,1-1.37-2.35A1.72,1.72,0,0,1,214,344.35Z" transform="translate(-153.31 -250.35)" fill="#ffe200" stroke="#231815" stroke-miterlimit="10" stroke-width="1.45"/>
+          <path id="e" d="M229.05,352.05c-1.06,1.2-1.21,2.79-.32,3.58s2.45.44,3.51-.76,1.19-2.8.32-3.57-2.45-.44-3.51.75" transform="translate(-153.31 -250.35)" fill="#231815" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.84"/>
+          <path id="e-2" data-name="e" d="M209.81,334.06c-1.12,1.14-2.72,1.38-3.55.57s-.61-2.42.52-3.55,2.7-1.38,3.55-.56.61,2.41-.52,3.55" transform="translate(-153.31 -250.35)" fill="#231815" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.84"/>
+        </g>
+        <g id="w">
+          <path id="_6" data-name="6" d="M241.38,356.87s5.72,3,9.08,7.12" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+          <path id="_5" data-name="5" d="M232.89,363.87a28.07,28.07,0,0,1,4.26,8.71" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+          <path id="_4" data-name="4" d="M238.28,361.31a73.79,73.79,0,0,1,6.43,7.77" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+          <path id="_3" data-name="3" d="M204,321.95s-3.39-5.5-7.71-8.58" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+          <path id="_2" data-name="2" d="M197.62,330.89a28,28,0,0,0-9-3.66" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+          <path id="_1" data-name="1" d="M199.81,325.33a73.6,73.6,0,0,0-8.17-5.89" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.2"/>
+        </g>
+      </g>
+      <g id="rib">
+        <path id="r" d="M251.37,341.2a20.79,20.79,0,0,1,3.94,3.66,2.81,2.81,0,0,1-.71,4.27c-2,1.54-6.28,2.33-8.19,2.3-2.11,0-4.26-1.51-3.62-4.26a27.64,27.64,0,0,1,1.24-3.75" transform="translate(-153.31 -250.35)" fill="#e60012" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.18"/>
+        <path id="U" d="M249.46,343.72c.84.84,1.1,2.43-.37,2.81a1.63,1.63,0,0,1-1.92-2.08" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.45"/>
+        <path id="l" d="M249.87,336.28a10.07,10.07,0,0,0,1.72-7.66c-.35-2.3-2-3.68-4.07-3.13a19.1,19.1,0,0,0-8.53,4.8c-3,2.81-1.13,4.71-.14,5.53a17.09,17.09,0,0,0,3.89,2.22" transform="translate(-153.31 -250.35)" fill="#e60012" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.18"/>
+        <path id="U-2" data-name="U" d="M247,335.25c.14-.84-.46-2.73-1.9-2.34-1.69.47-1.42,2.38-.7,3.14" transform="translate(-153.31 -250.35)" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.45"/>
+        <path id="o-2" data-name="o" d="M250.24,343.08a4.6,4.6,0,1,0-6.51,0A4.6,4.6,0,0,0,250.24,343.08Z" transform="translate(-153.31 -250.35)" fill="#e60012" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.18"/>
+      </g>
+    </g>
+  </g>
+</svg>
