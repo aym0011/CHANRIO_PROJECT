@@ -1,0 +1,22 @@
+<svg id="hair_0041" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.02 386.35">
+  <title>hair_0041_back</title>
+  <g id="hair_0041_back">
+    <g id="c">
+      <path id="c-2" data-name="c" d="M371.46,205.07A227.59,227.59,0,0,0,370,161.72h0a202.59,202.59,0,0,0-12.39-49.06c-24.25-64.58-70.24-87.24-92.21-92-31.3-6.77-49.4,1.18-49.4,1.18h-.6s-18.11-8-49.4-1.18c-22,4.75-68,27.4-92.21,92a202.44,202.44,0,0,0-12.39,49.06h0a227.59,227.59,0,0,0-1.49,43.35c3,43.06,21.57,60.15,31,69.15a33.61,33.61,0,0,0-9.13,18.21c-2.37,13.7,3.49,19.16,3.49,19.16S70.32,326.77,85,346c3.61,4.73,5.25,9,12.46,4.63,19.14-11.71,16.87-26.46,13.14-33.58,16.91-11.31,11.32-31.7,11.32-31.7S190.47,272,215.66,272h0c25.19,0,93.75,13.36,93.75,13.36s-5.59,20.39,11.32,31.7c-3.73,7.13-6,21.87,13.14,33.58,7.21,4.41,8.85.1,12.46-4.63,14.67-19.23-.22-34.41-.22-34.41s6.56-5.6,3.49-19.16c-2.68-11.85-9.13-18.21-9.13-18.21C349.89,265.22,368.46,248.13,371.46,205.07Z" transform="translate(-55.15 -13.66)" fill="#fff" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.55"/>
+      <path id="r" d="M349.95,359s7.72,7.51,7.65,17.7c-.08,12.2-7.54,19.22-12,19-21.81-5.77-11.72-32.55-11.72-32.55" transform="translate(-55.15 -13.66)" fill="#fff" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.55"/>
+      <path id="l" d="M81.37,359s-7.72,7.51-7.65,17.7c.08,12.2,7.54,19.22,12,19,21.8-5.77,11.72-32.55,11.72-32.55" transform="translate(-55.15 -13.66)" fill="#fff" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.55"/>
+    </g>
+    <g id="ribborn">
+      <g id="l-2" data-name="l">
+        <path id="_" data-name="&gt;" d="M99.73,354.49c7.21-2,15.06-3.75,15.16,1.6s-1.2,11.52-3,15-5.21,8.65-16.34-5.47" transform="translate(-55.15 -13.66)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+        <path id="_2" data-name="&lt;" d="M79.59,361.72c-7.21,2-14.43,3.58-14.53-1.78s1.2-11.52,3-15,5.45-8.42,16.59,5.71" transform="translate(-55.15 -13.66)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+        <circle id="o" cx="91.28" cy="357.8" r="8.91" transform="translate(-284.94 161.75) rotate(-46.09)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+      </g>
+      <g id="r-2" data-name="r">
+        <path id="_3" data-name="&lt;" d="M331.59,354.49c-7.21-2-15.05-3.75-15.15,1.6s1.2,11.52,3,15,5.21,8.65,16.34-5.47" transform="translate(-55.15 -13.66)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+        <path id="_4" data-name="&gt;" d="M351.73,361.72c7.21,2,14.43,3.58,14.53-1.78s-1.2-11.52-3-15-5.45-8.42-16.59,5.71" transform="translate(-55.15 -13.66)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+        <circle id="o-2" data-name="o" cx="340.04" cy="357.8" r="8.91" transform="translate(-208.23 322.25) rotate(-43.92)" fill="#fbe0ec" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+      </g>
+    </g>
+  </g>
+</svg>

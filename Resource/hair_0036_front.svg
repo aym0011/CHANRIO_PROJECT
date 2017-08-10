@@ -1,0 +1,15 @@
+<svg id="hair_0036" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343.37 203.82">
+  <title>hair_0036_front</title>
+  <g id="hair_0036_front">
+    <g id="hair">
+      <path id="c" d="M347.72,214.73c-45.4-24.63-127.3-25.81-132.57-25.81s-79.1,0-128.81,26.27c0,0-49-179.58,128.81-185.23C390.66,24.37,347.72,214.73,347.72,214.73Z" transform="translate(-43.97 -29.83)" fill="#fff"/>
+      <path id="l" d="M342.72,214.22c-47.58-26.27-121.8-25.31-127.07-25.31s-79.49-1-127.07,25.31" transform="translate(-43.97 -29.83)" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.55"/>
+    </g>
+    <g id="star">
+      <polygon id="y2" points="35.37 148.29 51.66 154.02 37.21 163.46 36.79 180.72 23.34 169.89 6.8 174.83 12.95 158.69 3.13 144.48 20.38 145.35 30.86 131.63 35.37 148.29" fill="#fff1a2" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+      <polygon id="p" points="42.78 175.13 53.51 184.88 39.24 187.47 33.28 200.68 26.41 187.91 12 186.32 22.03 175.84 19.08 161.64 32.14 167.95 44.74 160.76 42.78 175.13" fill="#f2cbc6" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+      <polygon id="y" points="308 148.29 291.71 154.02 306.17 163.46 306.58 180.72 320.03 169.89 336.57 174.83 330.43 158.69 340.24 144.48 322.99 145.35 312.51 131.63 308 148.29" fill="#fff1a2" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+      <polygon id="b" points="300.59 175.13 289.86 184.88 304.13 187.47 310.09 200.68 316.96 187.91 331.37 186.32 321.35 175.84 324.29 161.64 311.23 167.95 298.64 160.76 300.59 175.13" fill="#bce1df" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.27"/>
+    </g>
+  </g>
+</svg>
